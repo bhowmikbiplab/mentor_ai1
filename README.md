@@ -5,7 +5,7 @@
 ## 🚀 Live Demo
 
 🔗 **Try Prompt Wars:**  
-https://mentor-ai-hazel.vercel.app
+https://mentor-ai1-zeta.vercel.app/
 
 ---
 
